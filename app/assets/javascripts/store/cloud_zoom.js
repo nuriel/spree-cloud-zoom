@@ -5,6 +5,6 @@
 // the compiled file.
 //
 
-//= require cloud-zoom.1.0.2.min
+//= require cloud-zoom.1.0.2
 //= require product
 //= require_self
