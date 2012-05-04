@@ -1,0 +1,9 @@
+<div id="main-image">
+  <div id="my-wrap">
+    <%= render :partial => 'spree/products/image' %>
+  </div>
+</div>
+
+<div id="thumbnails">
+  <%= render :partial => 'spree/products/thumbnails', :locals => {:product => @product} %>
+</div>
