@@ -11,3 +11,7 @@
   position: relative;
   margin: 0;
 }
+
+a.cloud-zoom {
+  height: 240px;
+}
